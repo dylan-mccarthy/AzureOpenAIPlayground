@@ -16,8 +16,6 @@ class Program
 
         string filePath = Path.Combine(Directory.GetCurrentDirectory(), "Products.json");
         string json = File.ReadAllText(filePath);
-        // replace all new lines with spaces
-        json = json.Replace("\r\n", " ");
 
         var initialMessage = $"You are a product search AI and answers questions on the following data: ${json}";
         

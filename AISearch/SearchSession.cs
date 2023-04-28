@@ -16,16 +16,6 @@ public class SearchSession {
     public SearchSession(string initialMessage, OpenAIClient client) {
         _initialMessage = initialMessage;
         _client = client;
-
-        var chatCompletetionOptions = new ChatCompletionsOptions()
-        {
-            Messages = {
-                new ChatMessage(ChatRole.System, _initialMessage),
-            }
-        };
-
-        Response<ChatCompletions> chatCompletions = client.GetChatCompletions("gpt3-5", chatCompletetionOptions);
-
     }
 
     public string ProcessMessage(string message)
@@ -53,10 +43,10 @@ public class SearchSession {
 
     public string GetResponseFromOpenAI(string message)
     {
-        // TODO: Implement logic to pass message to OpenAI model and get response
         var chatCompletetionOptions = new ChatCompletionsOptions()
         {
             Messages = {
+                new ChatMessage(ChatRole.System, _initialMessage),
                 new ChatMessage(ChatRole.User, message),
             }
         };
