@@ -1,0 +1,170 @@
+[
+    {
+      "id": 1,
+      "name": "Windows 11",
+      "ProductType": "Software",
+      "dateAdded": "2022-05-01",
+      "description": "Windows 11 Home Edition.",
+      "price": 139.99
+    },
+    {
+      "id": 2,
+      "name": "Windows 10",
+      "ProductType": "Software",
+      "dateAdded": "2022-05-02",
+      "description": "Windows 10 Home Edition.",
+      "price": 119.99
+    },
+    {
+      "id": 3,
+      "name": "Build Service",
+      "ProductType": "Service",
+      "dateAdded": "2022-05-03",
+      "description": "Build service for your PC.",
+      "price": 99.99
+    },
+    {
+      "id": 4,
+      "name": "Office 365",
+      "ProductType": "Subscription",
+      "dateAdded": "2022-05-04",
+      "description": "Office 365 subscription.",
+      "price": 69.99
+    },
+    {
+      "id": 5,
+      "name": "Mechanical Keyboard",
+      "ProductType": "Accessory",
+      "dateAdded": "2022-05-05",
+      "description": "Mechanical keyboard with Cherry MX switches.",
+      "price": 149.99
+    },
+    {
+      "id": 6,
+      "name": "Intel Core i9-11900K",
+      "ProductType": "Hardware",
+      "dateAdded": "2022-05-06",
+      "description": "Intel Core i9-11900K Processor.",
+      "price": 599.99
+    },
+    {
+      "id": 7,
+      "name": "AMD Ryzen 9 5950X",
+      "ProductType": "Hardware",
+      "dateAdded": "2022-05-07",
+      "description": "AMD Ryzen 9 5950X Processor.",
+      "price": 799.99
+    },
+    {
+      "id": 8,
+      "name": "Nvidia GeForce RTX 3080",
+      "ProductType": "Hardware",
+      "dateAdded": "2022-05-08",
+      "description": "Nvidia GeForce RTX 3080 Graphics Card.",
+      "price": 999.99
+    },
+    {
+      "id": 9,
+      "name": "Samsung 970 EVO Plus",
+      "ProductType": "Hardware",
+      "dateAdded": "2022-05-09",
+      "description": "Samsung 970 EVO Plus NVMe SSD.",
+      "price": 199.99
+    },
+    {
+      "id": 10,
+      "name": "Intel Core i5-11600K",
+      "ProductType": "Hardware",
+      "dateAdded": "2022-05-10",
+      "description": "Intel Core i5-11600K Processor.",
+      "price": 299.99
+    },
+    {
+      "id": 11,
+      "name": "Logitech G Pro X Superlight",
+      "ProductType": "Accessory",
+      "dateAdded": "2022-05-11",
+      "description": "Logitech G Pro X Superlight Wireless Gaming Mouse.",
+      "price": 129.99
+    },
+    {
+      "id": 12,
+      "name": "Adobe Creative Cloud",
+      "ProductType": "Subscription",
+      "dateAdded": "2022-05-12",
+      "description": "Adobe Creative Cloud subscription.",
+      "price": 52.99
+    },
+    {
+      "id": 13,
+      "name": "Dell UltraSharp U2720Q",
+      "ProductType": "Hardware",
+      "dateAdded": "2022-05-13",
+      "description": "Dell UltraSharp U2720Q 27-inch 4K monitor.",
+      "price": 699.99
+    },
+    {
+      "id": 14,
+      "name": "Corsair Vengeance RGB Pro",
+      "ProductType": "Hardware",
+      "dateAdded": "2022-05-14",
+      "description": "Corsair Vengeance RGB Pro 32GB DDR4 RAM.",
+      "price": 199.99
+    },
+    {
+      "id": 15,
+      "name": "Razer DeathAdder V2",
+      "ProductType": "Accessory",
+      "dateAdded": "2022-05-15",
+      "description": "Razer DeathAdder V2 Wired Gaming Mouse.",
+      "price": 69.99
+    },
+    {
+      "id": 16,
+      "name": "Amazon Prime",
+      "ProductType": "Subscription",
+      "dateAdded": "2022-05-16",
+      "description": "Amazon Prime subscription.",
+      "price": 12.99
+    },
+    {
+      "id": 17,
+      "name": "Apple AirPods Pro",
+      "ProductType": "Accessory",
+      "dateAdded": "2022-05-17",
+      "description": "Apple AirPods Pro Wireless Earbuds.",
+      "price": 249.99
+    },
+    {
+      "id": 18,
+      "name": "Samsung Galaxy S21",
+      "ProductType": "Hardware",
+      "dateAdded": "2022-05-18",
+      "description": "Samsung Galaxy S21 Smartphone.",
+      "price": 799.99
+    },
+    {
+      "id": 19,
+      "name": "LG 27GL83A-B",
+      "ProductType": "Hardware",
+      "dateAdded": "2022-05-19",
+      "description": "LG 27GL83A-B 27-inch QHD IPS Gaming Monitor.",
+      "price": 399.99
+    },
+    {
+      "id": 20,
+      "name": "Apple MacBook Pro",
+      "ProductType": "Hardware",
+      "dateAdded": "2022-05-20",
+      "description": "Apple MacBook Pro 16-inch Laptop.",
+      "price": 2399.99
+    },
+    {
+      "id": 21,
+      "name": "Sony WH-1000XM4",
+      "ProductType": "Accessory",
+      "dateAdded": "2022-05-21",
+      "description": "Sony WH-1000XM4 Wireless Noise-Cancelling Headphones.",
+      "price": 349.99
+    }
+  ]
